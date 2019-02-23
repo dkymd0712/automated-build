@@ -1,2 +1,2 @@
-FROM dockersample/static-site
-ENV AUTOHR="Author name"
+FROM dockersamples/static-site
+ENV AUTHOR="Author name"
