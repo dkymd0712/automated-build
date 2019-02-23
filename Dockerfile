@@ -1,2 +1,2 @@
-FROM dockersmaple/static-site
+FROM dockersample/static-site
 ENV AUTOHR="Author name"
